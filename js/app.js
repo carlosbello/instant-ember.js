@@ -1,3 +1,5 @@
+var MovieTracker = Ember.Application.create();
+/*
 App = Ember.Application.create();
 
 App.Router.map(function() {
@@ -9,3 +11,4 @@ App.IndexRoute = Ember.Route.extend({
     return ['red', 'yellow', 'blue'];
   }
 });
+*/
